@@ -12,16 +12,16 @@ export default function App() {
 
   // Array of image paths (replace with your actual image paths)
   const images = [
-    "./public/image/shirt1.png",
-    "./public/image/shirt2.png",
-    "./public/image/shirt3.png",
-    "./public/image/shirt4.png",
-    "./public/image/shirt5.png",
-    "./public/image/shirt6.png",
-    "./public/image/shirt7.png",
-    "./public/image/shirt8.png",
-    "./public/image/shirt9.png",
-    "./public/image/shirt10.png",
+    "/image/shirt1.png",
+    "/image/shirt2.png",
+    "/image/shirt3.png",
+    "/image/shirt4.png",
+    "/image/shirt5.png",
+    "/image/shirt6.png",
+    "/image/shirt7.png",
+    "/image/shirt8.png",
+    "/image/shirt9.png",
+    "/image/shirt10.png",
   ];
 
   const centerIndex = (activeIndex + 2) % images.length;

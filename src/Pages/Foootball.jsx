@@ -6,7 +6,7 @@ export default function Foootball() {
     <>
           <div className="bg-shop bg-contain">
         <Banner
-          img="./public/image/Football banner.png"
+          img="/image/Football banner.png"
           title="Get your kits now"
           text={
             <>
@@ -25,7 +25,7 @@ export default function Foootball() {
                 <h1 className="text-right">Displaying 12 results</h1>
                 <div className="flex gap-5 flex-wrap mt-3">
                 <Products
-                 img="./public/image/product1.png"
+                 img="/image/product1.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />

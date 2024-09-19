@@ -11,17 +11,17 @@ export default function Blog() {
           </h1>
           <div className="flex flex-col gap-5">
             <Subblog
-              img="./public/image/blog1.jpeg"
+              img="/image/blog1.jpeg"
               tital="Michael Bracewell to lead New Zealand in Pakistan T20I series"
               text="Michael Bracewell is back in the New Zealand side after a year away"
             />
             <Subblog
-              img="./public/image/blog2.jpeg"
+              img="/image/blog2.jpeg"
               tital="Michael Bracewell to lead New Zealand in Pakistan T20I series"
               text="Michael Bracewell is back in the New Zealand side after a year away"
             />
             <Subblog
-              img="./public/image/blog3.jpeg"
+              img="/image/blog3.jpeg"
               tital="Michael Bracewell to lead New Zealand in Pakistan T20I series"
               text="Michael Bracewell is back in the New Zealand side after a year away"
             />

@@ -32,7 +32,7 @@ export default function Home() {
             <div className="z-[99] absolutes">
               <img
                 className="w-[50%] mx-auto"
-                src="./public/image/banner-shirt.png"
+                src="/image/banner-shirt.png"
                 alt=""
               />
             </div>
@@ -44,18 +44,18 @@ export default function Home() {
         <div className="w-1/2 border-[3px] h-[80vh]  border-Green bg-white">
           <div className="relative flex justify-center items-center h-[80%] group">
             <div className="absolute top-1/2 left-[73%] transform -translate-x-1/2 -translate-y-1/2 z-30 group-hover:pr-8 transition-all duration-300">
-              <img src="./public/image/sidebarimg.png" alt="" />
+              <img src="/image/sidebarimg.png" alt="" />
             </div>
             <div className="absolute top-[50%] left-[47%] transform -translate-x-1/2 -translate-y-1/2 z-20 group-hover:pl-4 transition-all duration-300">
-              <img src="./public/image/custondesgin.png" alt="" />
+              <img src="/image/custondesgin.png" alt="" />
             </div>
             <div className="absolute top-[30%] left-[47%] transform -translate-x-1/2 -translate-y-1/2 z-10">
-              <img src="./public/image/leftright.png" alt="" />
+              <img src="/image/leftright.png" alt="" />
             </div>
             <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 group-hover:pt-4 transition-all duration-300">
               <img
                 className="w-[85%]"
-                src="./public/image/backgroundborder.png"
+                src="/image/backgroundborder.png"
                 alt=""
               />
             </div>
@@ -67,12 +67,12 @@ export default function Home() {
           </div>
         </div>
         <div className="w-1/2 border-[3px] h-[80vh] border-blue text bg-white z-20">
-          <div className="flex justify-center items-center relative w-full h-[80%] group  bg-no-repeat bg-center  bg-[url('./public/image/emoji.png')] ">
+          <div className="flex justify-center items-center relative w-full h-[80%] group  bg-no-repeat bg-center  bg-[url('/image/emoji.png')] ">
             <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10">
-              <img src="./public/image/shirt.png" alt="Shirt" />
+              <img src="/image/shirt.png" alt="Shirt" />
             </div>
             <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-20 group-hover:pb-16 transition-all duration-300">
-              <img src="./public/image/star.png" alt="Star" />
+              <img src="/image/star.png" alt="Star" />
             </div>
           </div>
           <div>
@@ -82,7 +82,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="bg-[url('./public/image/homebg.png')] h-[85vh] bg-center bg-contain">
+      <div className="bg-[url('/image/homebg.png')] h-[85vh] bg-center bg-contain">
         <div className="w-[1440px] mx-auto pt-20">
           <h1 className="font-bold text-6xl font-Poppins text-center">
             Featured Product
@@ -96,7 +96,7 @@ export default function Home() {
           <Slider />
         </div>
       </div>
-      <div className="bg-[url('./public/image/dotimg.png')] bg-no-repeat bg-contains my-10">
+      <div className="bg-[url('/image/dotimg.png')] bg-no-repeat bg-contains my-10">
         <div className="w-[1540px] mx-auto flex items-center ">
           <div className="w-[60%] flex flex-col gap-10">
             <h1 className=" font-Poppins font-bold text-6xl">
@@ -106,7 +106,7 @@ export default function Home() {
               <div>
                 <img
                   className="w-[100%]"
-                  src="./public/image/dotshirt.png"
+                  src="/image/dotshirt.png"
                   alt=""
                 />
               </div>
@@ -124,7 +124,7 @@ export default function Home() {
               <div>
                 <img
                   className="w-[100%]"
-                  src="./public/image/dotshirt.png"
+                  src="/image/dotshirt.png"
                   alt=""
                 />
               </div>
@@ -141,7 +141,7 @@ export default function Home() {
               <div>
                 <img
                   className="w-[100%]"
-                  src="./public/image/dotshirt.png"
+                  src="/image/dotshirt.png"
                   alt=""
                 />
               </div>
@@ -155,21 +155,21 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="w-[35%] bg-[url('./public/image/backgroundimg.png')] bg-no-repeat bg-center relative group ">
+          <div className="w-[35%] bg-[url('/image/backgroundimg.png')] bg-no-repeat bg-center relative group ">
             <div className="flex justify-center items-center">
               <img
                 className="absolute w-[100%] group-hover:p-5 transition-all duration-200 "
-                src="./public/image/step-dash-bg.png"
+                src="/image/step-dash-bg.png"
                 alt=""
               />
               <img
                 className="absolute w-[80%] group-hover:p-5 transition-all duration-200"
-                src="./public/image/minordash.png"
+                src="/image/minordash.png"
                 alt=""
               />
               <img
                 className="absolute w-[70%] group-hover:p-6 transition-all duration-200"
-                src="./public/image/step-shirt.png"
+                src="/image/step-shirt.png"
                 alt=""
               />
             </div>
@@ -214,7 +214,7 @@ export default function Home() {
           </div>
         </div>
         <div className="flex justify-end pt-10">
-          <img className="" src="./public/image/trust-bg.png" alt="" />
+          <img className="" src="/image/trust-bg.png" alt="" />
         </div>
       </div>
       <div className="w-custom mx-auto pt-20 mb-20">
@@ -230,7 +230,7 @@ export default function Home() {
               <div className="w-1/2">
                 <img
                   className="min-h-[440px]"
-                  src="./public/image/Blog20image.jpeg"
+                  src="/image/Blog20image.jpeg"
                   alt=""
                 />
               </div>
@@ -255,7 +255,7 @@ export default function Home() {
               <div className="w-1/2">
                 <img
                   className="min-h-[440px]"
-                  src="./public/image/Soccer-Blogs.webp"
+                  src="/image/Soccer-Blogs.webp"
                   alt=""
                 />
               </div>

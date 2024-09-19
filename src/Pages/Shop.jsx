@@ -7,7 +7,7 @@ export default function Shop() {
     <>
       <div className="bg-shop bg-contain">
         <Banner
-          img="./public/image/sportsbanner.png"
+          img="/image/sportsbanner.png"
           title="Get your kits now"
           text="Select from our vast range of products."
         />
@@ -21,62 +21,62 @@ export default function Shop() {
                 <h1 className="text-right">Displaying 12 results</h1>
                 <div className="flex gap-5 flex-wrap mt-3">
                 <Products
-                 img="./public/image/product1.png"
+                 img="/image/product1.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product2.png"
+                 img="/image/product2.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product3.png"
+                 img="/image/product3.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product4.png"
+                 img="/image/product4.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product5.png"
+                 img="/image/product5.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product6.png"
+                 img="/image/product6.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product7.png"
+                 img="/image/product7.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product8.png"
+                 img="/image/product8.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product9.png"
+                 img="/image/product9.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product10.png"
+                 img="/image/product10.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product11.png"
+                 img="/image/product11.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />
                 <Products
-                 img="./public/image/product12.png"
+                 img="/image/product12.png"
                  name="BASEBALL SHORTS 1"
                  price="$11.99 - $14.99"
                  />

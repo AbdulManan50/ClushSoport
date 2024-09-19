@@ -7,7 +7,7 @@ export default function PhotoWall() {
     <>
       <div className="bg-shop bg-contain">
         <Banner
-          img="./public/image/photowall.png"
+          img="/image/photowall.png"
           title="Boundary-Hitting Attire"
           text={
             <>
@@ -25,11 +25,11 @@ export default function PhotoWall() {
               <div className="border-[#F4F4F4] border-[1px] px-5 py-3 bg-white mt-3 mb-10">
                 <h1 className="text-right">Displaying 12 results</h1>
                 <div className="flex gap-5 flex-wrap mt-3">
-                  <Imgs img="./public/image/photowall.png" />
-                  <Imgs img="./public/image/photowall.png" />
-                  <Imgs img="./public/image/photowall.png" />
-                  <Imgs img="./public/image/photowall.png" />
-                  <Imgs img="./public/image/photowall.png" />
+                  <Imgs img="/image/photowall.png" />
+                  <Imgs img="/image/photowall.png" />
+                  <Imgs img="/image/photowall.png" />
+                  <Imgs img="/image/photowall.png" />
+                  <Imgs img="/image/photowall.png" />
                 </div>
               </div>
             </div>

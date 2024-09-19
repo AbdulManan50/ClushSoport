@@ -643,14 +643,14 @@ export default function Tool() {
                           <div className="px-3 flex gap-10">
                             <div className="border-[1px] border-black hover:border-green cursor-pointer">
                               <img
-                                src="./public/image/Embroidery.webp"
+                                src="/image/Embroidery.webp"
                                 alt="Embroidery"
                               />
                               <h1>Embroidery</h1>
                             </div>
                             <div className="border-[1px] border-black hover:border-green cursor-pointer">
                               <img
-                                src="./public/image/Sublimation.webp"
+                                src="/image/Sublimation.webp"
                                 alt="Sublimation"
                               />
                               <h1>Sublimation</h1>
@@ -722,13 +722,13 @@ export default function Tool() {
                   <div className="px-3 flex gap-5">
                     <div className="border-[1px] border-black hover:border-Green cursor-pointer w-1/2 flex flex-col">
                       <img
-                        src="./public/image/Polyester.webp"
+                        src="/image/Polyester.webp"
                         alt="Embroidery"
                       />
                       <h1 className="text-center font-Poppins">Polyester</h1>
                     </div>
                     <div className="border-[1px] border-black hover:border-Green cursor-pointer w-1/2 flex flex-col">
-                      <img src="./public/image/Cotton.webp" alt="Sublimation" />
+                      <img src="/image/Cotton.webp" alt="Sublimation" />
                       <h1 className="text-center font-Poppins">
                         Cotton (+ $2)
                       </h1>
@@ -744,7 +744,7 @@ export default function Tool() {
                   <div className=" cursor-pointer">
                     <img
                       className="w-[80px] border-[1px] border-black hover:border-Green"
-                      src="./public/image/star-shirt.webp"
+                      src="/image/star-shirt.webp"
                       alt="Embroidery"
                     />
                   </div>

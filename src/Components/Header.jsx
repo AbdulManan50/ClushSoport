@@ -12,21 +12,21 @@ export default function Header() {
               </h1>
             </div>
             <div>
-              <img className="" src="./public/image/delivery.svg" alt="" />
+              <img className="" src="/image/delivery.svg" alt="" />
             </div>
           </div>
           <div>
-            <img className="" src="./public/image/user.svg" alt="" />
+            <img className="" src="/image/user.svg" alt="" />
           </div>
           <div>
-            <img className="" src="./public/image/cart.svg" alt="" />
+            <img className="" src="/image/cart.svg" alt="" />
           </div>
         </div>
       </div>
       <div className="w-[1440px] mx-auto flex justify-between items-center py-2">
         <div>
           <NavLink to="/">
-            <img src="./public/image/logo.webp" alt="" />
+            <img src="/image/logo.webp" alt="" />
           </NavLink>
         </div>
         <div className="flex gap-10 items-center">
