@@ -38,8 +38,8 @@ export default function App() {
         className="mySwiper"
       >
         {images.map((image, index) => (
-          <SwiperSlide key={index} className="slider mt-9">
-            <div className="flex flex-col items-center">
+          <SwiperSlide key={index} className="slider  mt-9">
+            <div className="flex flex-col items-center w-[280px]">
               <img
                 src={image}
                 alt=""

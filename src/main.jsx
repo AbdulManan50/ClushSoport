@@ -18,6 +18,7 @@ import Cricket from "./Pages/Cricket.jsx";
 import NewLogoArtwork from "./Pages/NewLogoArtwork.jsx";
 import PhotoWall from "./Pages/PhotoWall.jsx";
 import Superdesgin from "./Pages/Superdesgin.jsx";
+import Tool from "./Pages/Tool.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -32,6 +33,7 @@ const router = createBrowserRouter(
       <Route path="New-Logo-Artwork" element={<NewLogoArtwork />} />
       <Route path="PHOTO-WALL" element={<PhotoWall />} />
       <Route path="Super-Desgin" element={<Superdesgin />} />
+      <Route path="tool" element={<Tool />} />
     </Route>
   )
 );
